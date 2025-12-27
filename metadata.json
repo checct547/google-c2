@@ -1,0 +1,7 @@
+{
+  "name": "分镜视频提示词器",
+  "description": "A high-performance AI search engine powered by Gemini 3, featuring real-time Google Search grounding and a minimalist UI inspired by modern search interfaces.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
